@@ -44,4 +44,4 @@ https://github.com/SaiAshirwadInformatia/glaucoma/assets/127464128/895e7017-635c
 
 1. **Clone the Repository:**
    ```sh
-   https://github.com/SaiAshirwadInformatia/glaucoma.git
+   https://github.com/dyash2/glaucoma.git
