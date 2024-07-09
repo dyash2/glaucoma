@@ -1,16 +1,47 @@
-# glacuoma
+# Glaucoma Vision Simulator
 
-A new Flutter project.
+![logo](https://github.com/SaiAshirwadInformatia/glaucoma/assets/127464128/431a006d-9839-4a05-b3e8-aef8aecdf9d1)
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+The Glaucoma Vision Simulator is an application designed to simulate the vision of patients with glaucoma. The app helps patients and their caregivers understand the progression of glaucoma and its impact on vision according to the patient's age.
 
-A few resources to get you started if this is your first Flutter project:
+## Table of Contents
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Preview](#preview)
+- [Contributing](#contributing)
+- [License](#license)
+- [Clone](#clone)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Features
+
+- **Vision Simulation:** Simulates glaucoma vision for different age groups.
+- **Educational Content:** Provides information about glaucoma and its progression.
+- **User-Friendly Interface:** Easy-to-navigate interface for patients and caregivers.
+- **Cross-Platform:** Available on both iOS and Android devices.
+
+## Preview
+
+
+https://github.com/SaiAshirwadInformatia/glaucoma/assets/127464128/895e7017-635c-477f-807b-ecb239a0a8c4
+
+
+
+### Prerequisites
+
+- **For iOS:**
+  - Xcode installed on your Mac.
+  - iOS device or simulator for testing.
+
+- **For Android:**
+  - Android Studio installed on your machine.
+  - Android device or emulator for testing.
+
+
+#### Clone
+
+1. **Clone the Repository:**
+   ```sh
+   https://github.com/SaiAshirwadInformatia/glaucoma.git
